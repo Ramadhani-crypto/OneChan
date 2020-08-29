@@ -20,7 +20,7 @@ UNAPPROVED_MSG = (
     "`Menunggu balasan Persetujuan 😴😴.\n`"
     "`Lu Spam = block Ok😎.\n`"
     "`Ga Paham? Yaha Bodo amat.\n`"
-    "`® Di Jawab Oleh OniChan...`")
+    "`® Di Jawab Oleh AsistenZee...`")
 # =================================================================
 
 
